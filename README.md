@@ -67,7 +67,6 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - Recreation of HL2 movement in UE4 (from Project Borealis)
 
 ### Networking
-- [Epic Online Services](https://dev.epicgames.com/en-US/services) - Leverage Epic's game services for your own game (e.g. analytics, player data, player help desk, matchmaking)
 - [PingPlugin](https://github.com/DescendentStudios/PingPlugin) - ICMP ping hosts with Blueprint nodes
 - [TwitchAuth](https://github.com/fivefingergames/TwitchAuth) - In-game Twitch authentication plugin
 - [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
